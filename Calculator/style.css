@@ -48,7 +48,7 @@ body {
     cursor: pointer;
     background-color: #3a3a3a;
     color: white;
-    transition: background-color 0.4s ease;
+    transition: background-color 0.3s ease;
     
 }
 .btn:hover {
